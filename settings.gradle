@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':PracticeSubmodule1'
+project(':PracticeSubmodule1').projectDir = new File('Library/PracticeSubmodule1')

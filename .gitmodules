@@ -1,0 +1,6 @@
+[submodule "PracticeSubmodule1"]
+	path = PracticeSubmodule1
+	url = https://github.com/becker3t/PracticeSubmodule1.git
+[submodule "Library/PracticeSubmodule1"]
+	path = Library/PracticeSubmodule1
+	url = https://github.com/becker3t/PracticeSubmodule1.git
